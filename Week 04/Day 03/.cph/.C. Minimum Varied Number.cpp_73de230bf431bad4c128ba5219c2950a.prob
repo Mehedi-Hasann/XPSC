@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"f:\\XPSC\\Week 04\\Day 03\\C. Minimum Varied Number.cpp","tests":[{"id":1687971573457,"input":"4\n20\n8\n45\n10","output":"389\n8\n123456789\n19"},{"id":1687972011634,"input":"1\n9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\XPSC\\Week 04\\Day 03\\C. Minimum Varied Number.cpp","group":"local","local":true}
