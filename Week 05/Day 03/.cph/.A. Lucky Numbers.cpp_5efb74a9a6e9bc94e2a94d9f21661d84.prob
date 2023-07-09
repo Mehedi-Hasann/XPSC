@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"f:\\New folder\\Week 05\\Day 03\\A. Lucky Numbers.cpp","tests":[{"id":1688897776181,"input":"5\n59 63\n42 49\n15 15\n53 57\n1 100","output":"60\n49\n15\n57\n90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\New folder\\Week 05\\Day 03\\A. Lucky Numbers.cpp","group":"local","local":true}

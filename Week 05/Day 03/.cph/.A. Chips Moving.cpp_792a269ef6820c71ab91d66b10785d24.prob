@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"f:\\New folder\\Week 05\\Day 03\\A. Chips Moving.cpp","tests":[{"id":1688895991825,"input":"3\n1 2 3","output":"1"},{"id":1688895999685,"input":"5\n2 2 2 3 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\New folder\\Week 05\\Day 03\\A. Chips Moving.cpp","group":"local","local":true}

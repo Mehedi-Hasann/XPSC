@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"f:\\New folder\\Week 05\\Day 01\\A. Spy Detected!.cpp","tests":[{"id":1688835418019,"input":"4\n4\n11 13 11 11\n5\n1 4 4 4 4\n10\n3 3 3 3 10 3 3 3 3 3\n3\n20 20 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\New folder\\Week 05\\Day 01\\A. Spy Detected!.cpp","group":"local","local":true}
