@@ -1,0 +1,1 @@
+{"name":"Local: Odd GCD Permutation","url":"f:\\New folder\\Week 06\\Day 02\\Odd GCD Permutation.cpp","tests":[{"id":1689413917379,"input":"3\n5\n6\n17","output":"-1\n6 5 4 3 2 1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\New folder\\Week 06\\Day 02\\Odd GCD Permutation.cpp","group":"local","local":true}

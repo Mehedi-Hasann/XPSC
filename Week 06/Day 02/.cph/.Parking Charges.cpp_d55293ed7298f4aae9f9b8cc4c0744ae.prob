@@ -1,0 +1,1 @@
+{"name":"Local: Parking Charges","url":"f:\\New folder\\Week 06\\Day 02\\Parking Charges.cpp","tests":[{"id":1689412530514,"input":"10 1 5","output":""},{"id":1689412563763,"input":"1 10 100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\New folder\\Week 06\\Day 02\\Parking Charges.cpp","group":"local","local":true}
