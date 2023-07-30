@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"f:\\New folder\\Week 08\\Day 03\\C. Contrast Value.cpp","tests":[{"id":1690714600987,"input":"4\n5\n1 3 3 3 7\n2\n4 2\n7\n5 4 2 1 0 0 4\n4\n1 2 3 4","output":"2\n2\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\New folder\\Week 08\\Day 03\\C. Contrast Value.cpp","group":"local","local":true}
