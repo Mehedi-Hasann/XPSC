@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"f:\\New folder\\Week 08\\Day 07\\A. Knapsack.cpp","tests":[{"id":1691046951407,"input":"3\n1 3\n3\n6 2\n19 8 19 69 9 4\n3 12\n5 10 11","output":"1\n1\n-1\n6\n1 2 3 5 6 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\New folder\\Week 08\\Day 07\\A. Knapsack.cpp","group":"local","local":true}
