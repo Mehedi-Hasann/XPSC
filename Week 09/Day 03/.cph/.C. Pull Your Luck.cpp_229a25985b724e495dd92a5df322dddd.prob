@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"f:\\New folder\\Week 09\\Day 03\\C. Pull Your Luck.cpp","tests":[{"id":1691322541072,"input":"7\n5 2 1\n5 2 2\n10 0 100\n11 7 100\n3 1 1000\n31 0 10\n100 49 7","output":"No\nYes\nYes\nYes\nNo\nNo\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\New folder\\Week 09\\Day 03\\C. Pull Your Luck.cpp","group":"local","local":true}
