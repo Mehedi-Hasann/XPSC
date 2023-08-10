@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"f:\\New folder\\Week 09\\Day 07\\A. Expression.cpp","tests":[{"id":1691660577023,"input":"1\n2\n3","output":"9"},{"id":1691660587540,"input":"2\n10\n3","output":"60"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\New folder\\Week 09\\Day 07\\A. Expression.cpp","group":"local","local":true}
