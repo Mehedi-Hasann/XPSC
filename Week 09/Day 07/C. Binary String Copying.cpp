@@ -9,22 +9,41 @@ int main()
     {
         int n,m;
         cin>>n>>m;
-        vector<string>vec;
-        map<string,int>mp;
         string s;
         cin>>s;
+        int lf[n+5],rf[n+5];
+        lf[0] = -1;
         for(int i=0;i<n;i++){
-            vec.push_back(s);
+            if(i>0){
+                lf[i] = lf[i-1];
+            }
+            if(s[i]=='0'){
+                lf[i] = i;
+            }
         }
-        int i = 0;
+        rf[n-1] = n;
+        for(int i=n-1;i>=0;i--){
+            if(i != (n-1)){
+                rf[i] = rf[i+1];
+            }
+            if(s[i]=='1'){
+                rf[i] = i;
+            }
+        }
+        set<pair<int,int>>st;
         while(m--)
         {
             int u,v;
             cin>>u>>v;
-            sort(vec[i].begin()+u-1,vec[i].end()+v+2);
-            cout<<vec[i]<<endl;
-            i++;
+            int l = rf[u-1], r = lf[v-1];
+            if(l>r){
+                st.insert({-1,-1});
+            }
+            else{
+                st.insert({r,l});
+            }
         }
+        cout<<st.size()<<endl;
     }
     return 0;
 }
