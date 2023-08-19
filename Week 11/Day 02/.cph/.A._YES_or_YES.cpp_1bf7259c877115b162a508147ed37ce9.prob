@@ -1,1 +1,0 @@
-{"name":"Local: A","url":"f:\\XPSC\\Week 03\\Day 02\\A._YES_or_YES.cpp","tests":[{"id":1687188199714,"input":"10\nYES\nyES\nyes\nYes\nYeS\nNoo\norZ\nyEz\nYas\nXES","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\XPSC\\Week 03\\Day 02\\A._YES_or_YES.cpp","group":"local","local":true}
